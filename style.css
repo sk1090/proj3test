@@ -1,7 +1,7 @@
 
 .gameicon{
-  width: 200px;
-  height: 300px;
+  width: 180px;
+  height: 280px;
 
 
   /*
@@ -59,10 +59,10 @@ padding-top:  20px;
 padding-bottom:  20px;
 /*padding-bottom:  100%;*/
 
-/* margin-top: auto;*/
-position: absolute;
+margin-top: auto;
+/*position:absolute;*/
   /*  position:absolute;*/
-    bottom:0;
+  /*  bottom:0;*/
 
 }
 p{
@@ -98,12 +98,12 @@ header{
 
 .thumbnailscontainer
 {
-  padding-top: 4%;
+  padding-top: 2%;
   padding-bottom: 2%;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%;
+
 }
 
 .thumbnailscontainer2{
